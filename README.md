@@ -1,10 +1,10 @@
 # 📊 Dashboard de Reclamações – Power BI
 
-Painel interativo desenvolvido no Power BI para analisar dados de reclamações de clientes, com foco em resolução de problemas, volume mensal e distribuição por produto.
+Dashboard interativo desenvolvido no Power BI para analisar dados de reclamações de clientes, com foco em resolução de problemas, volume mensal e distribuição por produto.
 
 ---
 
-## 🔍 Visões Disponíveis
+## 🔍 Elementos do dashboard
 
 - **KPIs principais**:
   - Total de reclamações
@@ -41,7 +41,7 @@ Painel interativo desenvolvido no Power BI para analisar dados de reclamações 
 
 ---
 
-##Autor
+## Autor
 **David Souza Ribeiro**
 
 ---
